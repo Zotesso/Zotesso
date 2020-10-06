@@ -2,7 +2,7 @@
 
 #### Focado no desenvolvimento Web, especificadamente Front-end, porém com grande gosto por mobile e desenvolvimento de Games.
 
-- 🌱 Atualmente estudando PHP.🐘
+- 🌱 Aprendendo a criar uma Game Engine 2D online. 
 - 📘 Cursando Análise e Desenvolvimento de Sistemas.
 
 <br>
