@@ -11,7 +11,7 @@
 >  - Backend: Node
 >  - DevOps: Aws
 
-**Lerning right now**
+**Learning right now**
 >  - Backend: C#, ASP.NET core 6
 >  - DevOps: Azure? (maybe in the future)
 
