@@ -36,20 +36,13 @@
 <code><img alt="CSS" title="CSS" height="50" src="https://user-images.githubusercontent.com/38081852/87240029-0f067100-c3ec-11ea-8075-74e821ece9c0.png"></code>
 <code><img alt="HTML" title="HTML" height="50" src="https://user-images.githubusercontent.com/38081852/87240030-0f9f0780-c3ec-11ea-8370-829ea755b6e9.png"></code>
 <code><img alt="React / React Native" title="React / React Native" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img alt="Angular" title="Angular" height="45" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png
-"></code>
-<code><img alt="Jest" title="Jest" height="45" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png
-"></code>
-<code><img alt="Groovy" title="Groovy" height="45" src="https://user-images.githubusercontent.com/25181517/183892787-bca94a0e-ffcb-4eeb-8137-e0fc4e446c25.png
-"></code>
-<code><img alt="C#" title="C#" height="45" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png
-"></code>
-<code><img alt="ASP NET" title="ASP NET" height="45" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png
-"></code>
-<code><img alt="GO" title="GO" height="45" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png
-"></code>
-<code><img alt="Unity" title="Unity" height="45" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png
-"></code>
+<code><img alt="Angular" title="Angular" height="45" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"></code>
+<code><img alt="Jest" title="Jest" height="45" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png"></code>
+<code><img alt="Groovy" title="Groovy" height="45" src="https://user-images.githubusercontent.com/25181517/183892787-bca94a0e-ffcb-4eeb-8137-e0fc4e446c25.png"></code>
+<code><img alt="C#" title="C#" height="45" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"></code>
+<code><img alt="ASP NET" title="ASP NET" height="45" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"></code>
+<code><img alt="GO" title="GO" height="45" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png"></code>
+<code><img alt="Unity" title="Unity" height="45" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png"></code>
 
 ---
 
