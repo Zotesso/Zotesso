@@ -5,8 +5,6 @@
 ### Software Developer at [Tokenlab](https://www.tokenlab.com.br/pt/home) ❄️
 
 <br>
-<br>
-<br>
 
 **Mainly working with Web Applications and those specific technologies**
 >  - Frontend: Angular
