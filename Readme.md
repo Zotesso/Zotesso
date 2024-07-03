@@ -2,7 +2,7 @@
 
 ## Pedro Zotesso 
 
-### Software Developer at [Tokenlab](https://www.tokenlab.com.br/pt/home) ❄️
+### Software Developer at [CI&T]([https://www.tokenlab.com.br/pt/home](https://ciandt.com/br/pt-br/home)) ❄️
 
 <br>
 
@@ -12,9 +12,8 @@
 >  - DevOps: Aws
 
 **Learning right now**
->  - Backend: C#, ASP.NET core 6
->  - DevOps: Azure? (maybe in the future)
-
+>  Developing my own 2D MMMO Game Engine
+>  - Libraries: enet-csharp / monogame / protobuf-net
 <br>
 
 ---
